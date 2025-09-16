@@ -1,10 +1,4 @@
-
----
-
-### 📄 `notes/progress.md`
-Paste this:
-
-```markdown
+``markdown
 # Work Progress Log for IAM/DevSecOps (Issue #8)
 
 - [x] Step 1: Business Use Case Diagram
